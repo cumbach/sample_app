@@ -46,3 +46,7 @@ end
 gem "bootstrap-sass", "~> 3.4"
 
 gem "bcrypt", "~> 3.1"
+
+gem "faker", "~> 2.17"
+
+gem "will_paginate", "~> 3.3"
