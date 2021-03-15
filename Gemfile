@@ -50,3 +50,5 @@ gem "bcrypt", "~> 3.1"
 gem "faker", "~> 2.17"
 
 gem "will_paginate", "~> 3.3"
+
+gem "bootstrap-will_paginate", "~> 1.0"
